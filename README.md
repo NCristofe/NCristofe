@@ -1,27 +1,34 @@
 <h1 align="center">👋 Olá! Eu sou o Natanael Cristofe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+em+Evolução;Apaixonado+por+Tecnologia+e+Aprendizado;Sempre+Criando+%F0%9F%9A%80;Bem-vindo+ao+meu+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+em+Evolução;Focado+em+Java+e+Spring+Boot;Construindo+Projetos+Reais+%F0%9F%9A%80;Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
 ---
 
 ## 🚀 **Sobre mim**
 - 🎓 Estudante e apaixonado por programação  
-- 🧠 Sempre aprendendo: *Spring Boot, Java, Banco de Dados, Backend & Fullstack*  
-- 💡 Amo criar projetos úteis, sistemas reais e resolver problemas  
-  
+- 💚 Focado em **Java, Spring Boot e Backend**  
+- 🧠 Aprendendo e criando projetos com **SQL, JS, HTML/CSS**  
+- 🎨 Prototipação no **Figma**  
+
 
 ---
 
-## 🛠️ **Tecnologias que uso / estudo**
+## 🛠️ **Tecnologias que eu uso**
 <div align="center">
-  
-### 🔹 **Linguagens**
-<img src="https://skillicons.dev/icons?i=java,javascript,python"/>
 
-### 🔹 **Frameworks / Ferramentas**
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,git,github,mysql,postgres"/>
+### 🔹 **Backend**
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+
+### 🔹 **Frontend**
+<img src="https://skillicons.dev/icons?i=javascript,html,css"/>
+
+### 🔹 **Banco de Dados**
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### 🔹 **Ferramentas**
+<img src="https://skillicons.dev/icons?i=git,github,figma"/>
 
 </div>
 
@@ -36,29 +43,13 @@
 </div>
 
 
+
 ## 📫 **Como falar comigo**
 <div align="center">
-  
-📧 **Email:** cristofenatanael@gmail.com   
 
-</div>
-
----
+📧 **Email:** cristofenatanael@gmail.com 
 
 </div>
 
 
-<!--
-**NCristofe/NCristofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
