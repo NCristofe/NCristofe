@@ -1,47 +1,50 @@
-<h1 align="center">👋 Olá! Eu sou o Natanael Cristofe</h1>
+<h1 align="center">Natanael Cristofe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+em+Evolução;Focado+em+Java+e+Spring+Boot;Construindo+Projetos+Reais+%F0%9F%9A%80;Bem-vindo+ao+meu+GitHub!"/>
+  Dev · TI · Design
 </p>
 
 ---
 
-## 🚀 **Sobre mim**
-- 🎓 Estudante e apaixonado por programação  
-- 💚 Focado em **Java, Spring Boot e Backend**  
-- 🧠 Aprendendo e criando projetos com **SQL, JS, HTML/CSS**  
-- 🎨 Prototipação no **Figma**  
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
+##
 
-## 🛠️ **Tecnologias que eu uso**
-<div align="center">
+<div align="center"> 
 
-### 🔹 **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-
-### 🔹 **Frontend**
-<img src="https://skillicons.dev/icons?i=javascript,html,css"/>
-
-### 🔹 **Banco de Dados**
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-### 🔹 **Ferramentas**
-<img src="https://skillicons.dev/icons?i=git,github,figma"/>
-
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/>
+<img width="27">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"/>
+<img width="27" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
+<img width="27" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
+<br>
+<br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="45" alt="javascript logo" />
+<img width="27"/>
 </div>
 
+## Sobre
 
+- Atualmente cursando Análise e Desenvolvimento de Sistemas
+- SENAI Suíço-Brasileira
+- Dev em evolução - HMTML - CSS - JAVASCRIPT - JAVA 
 
+## Contato
 
+- [LinkedIn](https:///)
+- [Portfólio](LOADING...)
+- [Instagram -](https._)
 
-## 📫 **Como falar comigo**
-<div align="center">
-
-📧 **Email:** cristofenatanael@gmail.com 
-
-</div>
-
-
-
+---
