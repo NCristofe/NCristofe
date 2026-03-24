@@ -1,7 +1,7 @@
-<h1 align="center">Natanael Cristofe</h1>
+<h1 align="center">👨‍💻 Natanael Cristofe</h1>
 
 <p align="center">
-  Dev · TI · Design
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Futuro+Analista+de+Suporte;Dev+em+Evolução;Apaixonado+por+Tecnologia;Service+Desk+%7C+TI+%7C+Front-end">
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ## 📊 Estatísticas
 
 <div align="center">
+  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -30,48 +30,41 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🧠 Sobre mim
 
-<div align="center"> 
+💻 Estudante de Desenvolvimento de Sistemas – SENAI  
+🚀 Foco em Service Desk, Suporte Técnico e Front-end  
+🛠️ Experiência com atendimento ao cliente e resolução de problemas  
+📚 Sempre aprendendo algo novo na área de tecnologia  
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img width="27">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img width="27" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img width="27" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img width="27"/>
+---
 
-<br><br>
+## ⚡ Tecnologias
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
-<img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45"/>
-<img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,git,figma,blender,ae" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre
+## 🌐 Contato
 
-- 🎓 Cursando Desenvolvimento de Sistemas – SENAI Suíço-Brasileiro  
-- 💻 Foco em Front-end e Suporte Técnico  
-- 🚀 Em evolução constante nas áreas de TI  
-- 🛠️ HTML · CSS · JavaScript · Java  
+<p align="center">
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://instagram.com/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
 
 ---
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 🌐 [Portfólio](#)
-- 📸 [Instagram](https://instagram.com/)
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
