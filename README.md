@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Natanael Cristofe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Futuro+Analista+de+Suporte;Dev+em+Evolução;Apaixonado+por+Tecnologia;Service+Desk+%7C+TI+%7C+Front-end">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Tecnologia+%7C+Desenvolvimento+%7C+Suporte;Estudante+de+TI;Sempre+aprendendo+algo+novo;Construindo+minha+carreira+na+tecnologia">
 </p>
 
 ---
@@ -32,10 +32,11 @@
 
 ## 🧠 Sobre mim
 
-💻 Estudante de Desenvolvimento de Sistemas – SENAI  
-🚀 Foco em Service Desk, Suporte Técnico e Front-end  
-🛠️ Experiência com atendimento ao cliente e resolução de problemas  
-📚 Sempre aprendendo algo novo na área de tecnologia  
+💻 Estudante de Desenvolvimento de Sistemas (SENAI)  
+🚀 Interesse em tecnologia, desenvolvimento e suporte técnico  
+🛠️ Experiência com resolução de problemas e atendimento ao usuário  
+📚 Em constante evolução, buscando aprender e me adaptar a diferentes áreas da TI  
+⚡ Perfil proativo, analítico e focado em soluções  
 
 ---
 
