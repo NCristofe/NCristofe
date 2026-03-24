@@ -6,46 +6,72 @@
 
 ---
 
-![](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 
 ---
 
-##
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center"> 
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 <img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 <img width="27">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
 <img width="27" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 <img width="27" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 <img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="git logo" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 <img width="27"/>
-<br>
-<br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="figma logo" />
+
+<br><br>
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
 <img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="45" alt="blender logo" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45"/>
 <img width="27"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="45" alt="after effects logo" />
-<img width="27"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45"/>
+
 </div>
 
-## Sobre
+---
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas  
-- SENAI Suíço-Brasileira  
-- Dev em evolução - HTML - CSS - JavaScript - Java  
+## 👨‍💻 Sobre
 
-## Contato
+- 🎓 Cursando Desenvolvimento de Sistemas – SENAI Suíço-Brasileiro  
+- 💻 Foco em Front-end e Suporte Técnico  
+- 🚀 Em evolução constante nas áreas de TI  
+- 🛠️ HTML · CSS · JavaScript · Java  
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Portfólio](#)
-- [Instagram](https://instagram.com/)
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🌐 [Portfólio](#)
+- 📸 [Instagram](https://instagram.com/)
 
 ---
