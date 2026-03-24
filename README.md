@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/NCristofe/NCristofe/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
 ---
@@ -16,15 +16,15 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NCristofe&theme=tokyonight&hide_border=true"/>
 
 </div>
 
