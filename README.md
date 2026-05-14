@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NCristofe/NCristofe/main/assets/banner-natanael-cristofe.png" width="100%" alt="Banner Natanael Cristofe"/>
+  <img src="https://raw.githubusercontent.com/NCristofe/NCristofe/assets/banner-natanael-cristofe.png" width="100%" alt="Banner Natanael Cristofe"/>
 </p>
 
 <h1 align="center">👨‍💻 Natanael Cristofe</h1>
