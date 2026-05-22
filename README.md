@@ -75,6 +75,20 @@ Tenho perfil analítico, proativo e orientado a aprendizado contínuo. Busco evo
 
 ---
 
+## Vitrine visual
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Calendário de contribuições em 3D" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## Estatísticas
 
 <p align="center">
