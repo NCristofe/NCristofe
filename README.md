@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Natanael Cristofe</h1>
 
 <p align="center">
