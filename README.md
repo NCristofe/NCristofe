@@ -1,75 +1,99 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NCristofe/NCristofe/assets/banner-natanael-cristofe.png" width="100%" alt="Banner Natanael Cristofe"/>
+  <img src="./assets/Copilot_20260514_101211.png" width="100%" alt="Banner Natanael Cristofe" />
 </p>
 
-<h1 align="center">👨‍💻 Natanael Cristofe</h1>
-<p align="center">Desenvolvedor em Formação | SENAI Suíço Brasileira</p>
-
----
+<h1 align="center">Natanael Cristofe</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NCristofe/NCristofe/main/assets/logo-natanael-cristofe.svg" width="250" alt="Logo Natanael Cristofe"/>
+  Desenvolvedor em formação | Desenvolvimento de Sistemas | Suporte técnico e soluções digitais
 </p>
 
----
-
-## 🧠 Sobre mim
-- 💻 Estudante de Desenvolvimento de Sistemas (SENAI)
-- 🚀 Interesse em tecnologia, desenvolvimento e suporte técnico
-- 🛠️ Experiência com resolução de problemas e atendimento ao usuário
-- 📚 Em constante evolução, buscando aprender e me adaptar a diferentes áreas da TI
-- ⚡ Perfil proativo, analítico e focado em soluções
-
----
-
-## ⚡ Tecnologias
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,react,html,css,java,mysql,git,figma,blender,ae" />
-</div>
-
----
-
-## 📊 Estatísticas
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=NCristofe&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🕓 Histórico de commits
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NCristofe&theme=tokyonight"/>
-</div>
-
----
-
-## 🚀 Projetos em destaque
-- [SENAI DevHub](ca://s?q=Explorar_projeto_SENAI_DevHub) – App mobile para divulgação de cursos  
-- [Portfólio Pessoal](ca://s?q=Explorar_portfolio_pessoal_NCristofe) – Projetos e experimentos em TI  
-- [Exercícios de Java](ca://s?q=Explorar_projeto_exercicios_em_Java) – Prática de lógica e programação  
-
----
-
-## 🌐 Contato
 <p align="center">
-<a href="https://linkedin.com/in/seu-linkedin">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://seu-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-<a href="https://instagram.com/seuuser">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <a href="https://github.com/NCristofe">
+    <img src="https://img.shields.io/badge/GitHub-NCristofe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub NCristofe" />
+  </a>
+</p>
+
+<!-- Adicione aqui seus links profissionais quando estiverem prontos:
+<a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a>
+<a href="https://seu-portfolio.com">Portfólio</a>
+-->
+
+---
+
+## Sobre mim
+
+Sou estudante de Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira, com interesse em desenvolvimento web, lógica de programação, suporte técnico e criação de soluções práticas para problemas reais.
+
+Tenho perfil analítico, proativo e orientado a aprendizado contínuo. Busco evoluir em projetos que conectem tecnologia, organização e experiência do usuário, sempre com foco em entregar interfaces funcionais, código claro e soluções bem estruturadas.
+
+---
+
+## Competências
+
+<table>
+  <tr>
+    <td><strong>Desenvolvimento</strong></td>
+    <td>HTML, CSS, JavaScript, React, Java e MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>Ferramentas</strong></td>
+    <td>Git, GitHub, Figma, Blender e After Effects</td>
+  </tr>
+  <tr>
+    <td><strong>Interesses</strong></td>
+    <td>Front-end, aplicações web, mobile, banco de dados e suporte ao usuário</td>
+  </tr>
+  <tr>
+    <td><strong>Diferenciais</strong></td>
+    <td>Resolução de problemas, comunicação, atendimento técnico e adaptabilidade</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,figma,blender,ae" alt="Tecnologias utilizadas" />
 </p>
 
 ---
 
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| SENAI DevHub | Aplicativo mobile para divulgação de cursos e informações educacionais. | Mobile, UI/UX |
+| Portfólio pessoal | Espaço para apresentar projetos, estudos e evolução técnica. | HTML, CSS, JavaScript |
+| Exercícios de Java | Repositório de prática com lógica de programação e fundamentos da linguagem. | Java |
+
+---
+
+## Em evolução
+
+- Aprofundamento em desenvolvimento front-end com React.
+- Prática constante em Java, lógica de programação e banco de dados.
+- Criação de interfaces mais organizadas, responsivas e acessíveis.
+- Melhoria contínua em versionamento, documentação e apresentação de projetos.
+
+---
+
+## Estatísticas
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NCristofe&theme=github_dark" alt="Resumo de contribuições" />
+</p>
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/NCristofe">GitHub</a>
+</p>
+
+<p align="center">
+  Aberto a oportunidades de aprendizado, projetos colaborativos e desafios na área de tecnologia.
 </p>
