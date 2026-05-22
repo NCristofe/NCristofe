@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/Copilot_20260514_101211.png" width="100%" alt="Banner Natanael Cristofe" />
-</p>
+
 
 <h1 align="center">Natanael Cristofe</h1>
 
