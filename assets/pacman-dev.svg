@@ -1,0 +1,52 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#071a2d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="172" rx="18" stroke="#30363d"/>
+  <text x="46" y="55" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">PAC-MAN DEV MODE</text>
+
+  <g transform="translate(68 92)">
+    <path d="M70 0A70 70 0 1 0 70 140A70 70 0 0 0 70 0Z" fill="#ffd84d"/>
+    <path d="M70 70L132 36A70 70 0 0 1 132 104L70 70Z" fill="#0d1117"/>
+    <circle cx="78" cy="36" r="8" fill="#0d1117"/>
+  </g>
+
+  <g fill="#f6c945">
+    <circle cx="260" cy="110" r="9"/>
+    <circle cx="316" cy="110" r="9"/>
+    <circle cx="372" cy="110" r="9"/>
+    <circle cx="428" cy="110" r="9"/>
+    <circle cx="484" cy="110" r="9"/>
+    <circle cx="540" cy="110" r="9"/>
+    <circle cx="596" cy="110" r="9"/>
+    <circle cx="652" cy="110" r="9"/>
+  </g>
+
+  <g transform="translate(730 64)">
+    <path d="M0 44C0 19.7 19.7 0 44 0S88 19.7 88 44V118H71L60 104L49 118H39L28 104L17 118H0V44Z" fill="#ff5f8f"/>
+    <circle cx="29" cy="46" r="12" fill="#fff"/>
+    <circle cx="59" cy="46" r="12" fill="#fff"/>
+    <circle cx="33" cy="48" r="5" fill="#1f6feb"/>
+    <circle cx="63" cy="48" r="5" fill="#1f6feb"/>
+  </g>
+  <g transform="translate(850 64)">
+    <path d="M0 44C0 19.7 19.7 0 44 0S88 19.7 88 44V118H71L60 104L49 118H39L28 104L17 118H0V44Z" fill="#64e3ff"/>
+    <circle cx="29" cy="46" r="12" fill="#fff"/>
+    <circle cx="59" cy="46" r="12" fill="#fff"/>
+    <circle cx="33" cy="48" r="5" fill="#1f6feb"/>
+    <circle cx="63" cy="48" r="5" fill="#1f6feb"/>
+  </g>
+  <g transform="translate(970 64)">
+    <path d="M0 44C0 19.7 19.7 0 44 0S88 19.7 88 44V118H71L60 104L49 118H39L28 104L17 118H0V44Z" fill="#ff9f43"/>
+    <circle cx="29" cy="46" r="12" fill="#fff"/>
+    <circle cx="59" cy="46" r="12" fill="#fff"/>
+    <circle cx="33" cy="48" r="5" fill="#1f6feb"/>
+    <circle cx="63" cy="48" r="5" fill="#1f6feb"/>
+  </g>
+
+  <text x="260" y="160" fill="#c9d1d9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">commits • projetos • aprendizado • evolução</text>
+</svg>

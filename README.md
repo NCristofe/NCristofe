@@ -78,14 +78,12 @@ Tenho perfil analítico, proativo e orientado a aprendizado contínuo. Busco evo
 ## Vitrine visual
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Calendário de contribuições em 3D" />
+  <img src="./assets/contribution-3d.svg" width="100%" alt="Gráfico de contribuições em 3D" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/NCristofe/NCristofe/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="./assets/pacman-dev.svg" width="100%" alt="Pac-Man dev com commits e projetos" />
+</p>
 
 ---
 
@@ -105,7 +103,9 @@ Tenho perfil analítico, proativo e orientado a aprendizado contínuo. Busco evo
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/NCristofe">GitHub</a>
+  <a href="https://github.com/NCristofe">
+    <img src="https://img.shields.io/badge/Ver%20projetos%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos no GitHub" />
+  </a>
 </p>
 
 <p align="center">

@@ -1,0 +1,90 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#101827"/>
+      <stop offset="1" stop-color="#071a2d"/>
+    </linearGradient>
+    <linearGradient id="topLow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17324a"/>
+      <stop offset="1" stop-color="#0e2438"/>
+    </linearGradient>
+    <linearGradient id="topOne" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#0d419d"/>
+    </linearGradient>
+    <linearGradient id="topTwo" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39c5ff"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="topThree" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#2ea043"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.1 0 0 0 0 0.55 0 0 0 0 1 0 0 0 0.45 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <g id="block0">
+      <polygon points="0,10 18,0 36,10 18,20" fill="url(#topLow)"/>
+      <polygon points="0,10 18,20 18,28 0,18" fill="#081827"/>
+      <polygon points="36,10 18,20 18,28 36,18" fill="#06111d"/>
+    </g>
+    <g id="block1">
+      <polygon points="0,9 18,0 36,9 18,18" fill="url(#topOne)"/>
+      <polygon points="0,9 18,18 18,36 0,27" fill="#0d419d"/>
+      <polygon points="36,9 18,18 18,36 36,27" fill="#092f75"/>
+    </g>
+    <g id="block2">
+      <polygon points="0,8 18,0 36,8 18,16" fill="url(#topTwo)"/>
+      <polygon points="0,8 18,16 18,48 0,40" fill="#0d6efd"/>
+      <polygon points="36,8 18,16 18,48 36,40" fill="#084da8"/>
+    </g>
+    <g id="block3">
+      <polygon points="0,7 18,0 36,7 18,14" fill="url(#topThree)"/>
+      <polygon points="0,7 18,14 18,62 0,55" fill="#2ea043"/>
+      <polygon points="36,7 18,14 18,62 36,55" fill="#1f7a35"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="364" rx="22" stroke="#30363d"/>
+  <circle cx="970" cy="78" r="132" fill="#1f6feb" opacity="0.14"/>
+  <circle cx="232" cy="340" r="172" fill="#39c5ff" opacity="0.10"/>
+
+  <text x="60" y="68" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Contribuições em 3D</text>
+  <text x="60" y="100" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">visual em blocos inspirado no calendário de commits do GitHub</text>
+
+  <g transform="translate(180 92)" opacity="0.45">
+    <path d="M0 250L438 12L876 250" stroke="#30363d" stroke-width="2"/>
+    <path d="M88 298L526 60L964 298" stroke="#30363d" stroke-width="2"/>
+    <path d="M176 346L614 108L1052 346" stroke="#30363d" stroke-width="2"/>
+    <path d="M0 250L176 346" stroke="#30363d" stroke-width="2"/>
+    <path d="M438 12L614 108" stroke="#30363d" stroke-width="2"/>
+    <path d="M876 250L1052 346" stroke="#30363d" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(152 125)" filter="url(#softGlow)">
+    <use href="#block0" x="0" y="170"/><use href="#block1" x="44" y="146"/><use href="#block0" x="88" y="122"/><use href="#block2" x="132" y="98"/><use href="#block1" x="176" y="74"/><use href="#block3" x="220" y="50"/><use href="#block0" x="264" y="26"/>
+    <use href="#block1" x="70" y="206"/><use href="#block2" x="114" y="182"/><use href="#block1" x="158" y="158"/><use href="#block0" x="202" y="134"/><use href="#block3" x="246" y="110"/><use href="#block2" x="290" y="86"/><use href="#block1" x="334" y="62"/>
+    <use href="#block0" x="140" y="242"/><use href="#block1" x="184" y="218"/><use href="#block3" x="228" y="194"/><use href="#block2" x="272" y="170"/><use href="#block1" x="316" y="146"/><use href="#block0" x="360" y="122"/><use href="#block2" x="404" y="98"/>
+    <use href="#block2" x="210" y="278"/><use href="#block0" x="254" y="254"/><use href="#block1" x="298" y="230"/><use href="#block3" x="342" y="206"/><use href="#block2" x="386" y="182"/><use href="#block1" x="430" y="158"/><use href="#block0" x="474" y="134"/>
+    <use href="#block1" x="280" y="314"/><use href="#block2" x="324" y="290"/><use href="#block3" x="368" y="266"/><use href="#block1" x="412" y="242"/><use href="#block0" x="456" y="218"/><use href="#block2" x="500" y="194"/><use href="#block3" x="544" y="170"/>
+    <use href="#block0" x="350" y="350"/><use href="#block1" x="394" y="326"/><use href="#block2" x="438" y="302"/><use href="#block0" x="482" y="278"/><use href="#block3" x="526" y="254"/><use href="#block1" x="570" y="230"/><use href="#block2" x="614" y="206"/>
+    <use href="#block3" x="420" y="386"/><use href="#block2" x="464" y="362"/><use href="#block1" x="508" y="338"/><use href="#block0" x="552" y="314"/><use href="#block2" x="596" y="290"/><use href="#block3" x="640" y="266"/><use href="#block1" x="684" y="242"/>
+  </g>
+
+  <g transform="translate(804 92)">
+    <rect width="300" height="150" rx="18" fill="#0d1117" stroke="#30363d"/>
+    <text x="24" y="40" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">NCristofe</text>
+    <text x="24" y="72" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">GitHub profile README</text>
+    <g transform="translate(24 102)">
+      <rect width="42" height="14" rx="7" fill="#17324a"/>
+      <rect x="54" width="42" height="14" rx="7" fill="#1f6feb"/>
+      <rect x="108" width="42" height="14" rx="7" fill="#39c5ff"/>
+      <rect x="162" width="42" height="14" rx="7" fill="#7ee787"/>
+      <text x="220" y="13" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">menos → mais</text>
+    </g>
+  </g>
+</svg>
