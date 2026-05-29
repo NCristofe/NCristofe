@@ -52,15 +52,7 @@ Tenho perfil analítico, proativo e orientado a aprendizado contínuo. Busco evo
 
 ---
 
-## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| SENAI DevHub | Aplicativo mobile para divulgação de cursos e informações educacionais. | Mobile, UI/UX |
-| Portfólio pessoal | Espaço para apresentar projetos, estudos e evolução técnica. | HTML, CSS, JavaScript |
-| Exercícios de Java | Repositório de prática com lógica de programação e fundamentos da linguagem. | Java |
-
----
 
 ## Em evolução
 
