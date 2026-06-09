@@ -14,8 +14,8 @@
 
 ## Sobre mim
 
-Estudante de Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira, com foco em desenvolvimento web, lógica de programação e suporte técnico.  
-Perfil analítico, proativo e orientado ao aprendizado contínuo, buscando evoluir em projetos que conectem tecnologia e experiência do usuário.
+Sou estudante de Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira, com foco em desenvolvimento web, lógica de programação e suporte técnico.  
+Tenho perfil analítico, proativo e orientado ao aprendizado contínuo, buscando evoluir em projetos que conectem tecnologia e experiência do usuário.
 
 ---
 
@@ -44,8 +44,11 @@ Perfil analítico, proativo e orientado ao aprendizado contínuo, buscando evolu
 ## Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
