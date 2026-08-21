@@ -1,64 +1,97 @@
 <h1 align="center">Natanael Cristofe</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Sistemas | Suporte técnico
+  Desenvolvedor em formação | Desenvolvimento de Sistemas | Suporte Técnico
 </p>
 
 <p align="center">
   <a href="https://github.com/NCristofe">
-    <img src="https://img.shields.io/badge/GitHub-NCristofe-181717?style=flat&logo=github&logoColor=white" alt="GitHub NCristofe" />
+    <img src="https://img.shields.io/badge/GitHub-NCristofe-181717?style=flat&logo=github&logoColor=white" alt="GitHub de Natanael Cristofe" />
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira, com foco em desenvolvimento web, lógica de programação e suporte técnico.  
-Tenho perfil analítico, proativo e orientado ao aprendizado contínuo, buscando evoluir em projetos que conectem tecnologia e experiência do usuário.
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira**, com foco em desenvolvimento web, lógica de programação e suporte técnico.
+
+Tenho perfil analítico, proativo e orientado ao aprendizado contínuo. Busco desenvolver projetos que unam **tecnologia, usabilidade e experiência do usuário**, sempre buscando evoluir minhas habilidades técnicas e profissionais.
 
 ---
 
-## Competências
+## 🚀 Competências
 
-- **[Desenvolvimento](ca://s?q=Competencias_em_desenvolvimento)**: HTML, CSS, JavaScript, React, Java, MySQL  
-- **[Ferramentas](ca://s?q=Ferramentas_utilizadas)**: Git, GitHub, Figma, Blender, After Effects  
-- **[Interesses](ca://s?q=Interesses_profissionais)**: Front-end, aplicações web, mobile, banco de dados, suporte ao usuário  
-- **[Diferenciais](ca://s?q=Diferenciais_profissionais)**: Resolução de problemas, comunicação, atendimento técnico, adaptabilidade  
+### Desenvolvimento
+- HTML
+- CSS
+- JavaScript
+- React
+- Java
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
+- Figma
+- Blender
+- After Effects
+
+### Áreas de interesse
+- Front-end
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- Banco de Dados
+- Suporte Técnico
+- Experiência do Usuário
+
+### Diferenciais
+- Resolução de problemas
+- Comunicação
+- Atendimento técnico
+- Adaptabilidade
+- Aprendizado contínuo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,figma,blender,ae" alt="Tecnologias utilizadas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,figma,blender,ae" alt="Tecnologias e ferramentas" />
 </p>
 
 ---
 
-## Em evolução
+## 📚 Em evolução
 
-- [Front-end com React](ca://s?q=Aprofundamento_em_React)  
-- [Java e lógica de programação](ca://s?q=Pratica_em_Java)  
-- [Interfaces responsivas e acessíveis](ca://s?q=Interfaces_responsivas)  
-- [Versionamento e documentação](ca://s?q=Melhoria_em_versionamento)
+Atualmente estou aprofundando meus conhecimentos em:
 
----
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
+- Desenvolvimento Front-end com React
+- Java e lógica de programação
+- Interfaces responsivas e acessíveis
+- Git e GitHub
+- Versionamento de código
+- Documentação de projetos
+- Desenvolvimento de aplicações web
 
 ---
 
-## Contato
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/NCristofe">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NCristofe&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Natanael Cristofe" />
 </p>
 
 <p align="center">
-  Aberto a oportunidades de aprendizado e projetos colaborativos em tecnologia.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCristofe&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Natanael Cristofe" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/NCristofe">
+    <img src="https://img.shields.io/badge/GitHub-NCristofe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  Aberto a oportunidades de aprendizado, desenvolvimento e projetos colaborativos em tecnologia.
 </p>
