@@ -36,7 +36,11 @@ Estudante de Desenvolvimento de Sistemas pelo SENAI Suíço-Brasileira, com inte
 ## Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NCristofe&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCristofe/NCristofe/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobra animada percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/NCristofe/NCristofe/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## Contato
